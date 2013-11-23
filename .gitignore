@@ -53,3 +53,6 @@ recaptcha
 /db.sq3
 *.DS_Store
 htmlcov
+venv_bit_talk
+btc_project
+.python-version
